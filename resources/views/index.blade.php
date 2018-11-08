@@ -66,6 +66,21 @@
                     <p>These are some fun little side projects I made in my free time</p>
                 </div>
                 <div id="projects_list">
+
+                    <div class="projects_item_outer_outer">
+                        <div class="projects_item_outer">
+                            <div class="projects_item">
+                                <div class="projects_item_thumb">
+                                    <img class="projects_item_thumb_itself" src="images/project_thumbs/virtual_yardsale.png">
+                                </div>
+                                <a href="https://virtualyardsale.doriekeberends.nl/" target="_blank">
+                                    <div class="projects_item_name">
+                                        <div>Virtual Yardsale</div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
                     
                     <div class="projects_item_outer_outer">
                         <div class="projects_item_outer">
