@@ -71,6 +71,21 @@
                         <div class="projects_item_outer">
                             <div class="projects_item">
                                 <div class="projects_item_thumb">
+                                    <img class="projects_item_thumb_itself" src="images/project_thumbs/sinterklaas.png">
+                                </div>
+                                <a href="https://sinterlijstje.doriekeberends.nl/" target="_blank">
+                                    <div class="projects_item_name">
+                                        <div>Sinterlijstje</div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="projects_item_outer_outer">
+                        <div class="projects_item_outer">
+                            <div class="projects_item">
+                                <div class="projects_item_thumb">
                                     <img class="projects_item_thumb_itself" src="images/project_thumbs/virtual_yardsale.png">
                                 </div>
                                 <a href="https://virtualyardsale.doriekeberends.nl/" target="_blank">
